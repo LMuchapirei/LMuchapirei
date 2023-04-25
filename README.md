@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LMuchapirei
 - 👀 I’m interested in Web technologies,Mobile Development and Machine learning on the side
-- 🌱 I’m currently learning ...Data Structures,Flutter,Swift UI,React,Deep Learning,Java/Spring Boot
-- 💞️ I’m looking to collaborate on ...@twitter  @Lin_m5cs
+- 🌱 I’m currently learning ...Data Structures and Algorithms
 - 📫 How to reach me ...email linvle2@gmail.com
 
 <!---

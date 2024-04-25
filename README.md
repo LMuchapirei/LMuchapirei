@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LMuchapirei
-- 👀 I’m interested in Web technologies,Mobile Development and Machine learning on the side
-- 🌱 I’m currently learning ...Data Structures and Algorithms
+- 👀 I’m a Full Stack Developer
+- 🌱 I’m currently learning ... [Data Structures and Algorithms, SwiftUI and UIKit, Flutter]
 - 📫 How to reach me ...email linvle2@gmail.com
 
 <!---
